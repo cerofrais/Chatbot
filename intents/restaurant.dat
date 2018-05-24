@@ -1,0 +1,32 @@
+I want to book a table for $guests
+book me a table
+find me a restaurant
+book restaurant
+table book
+restaurant book
+book $restaurantname
+find me a $status restaurant in $zone
+book me a table at $status restaurant
+table reservations
+restaurant reservations
+reservation for $guests in $zone in a $status restaurant
+$zone $restaurant
+Dinner reservations
+Lunch Reservations
+breakfast reservations
+brunch reservations
+Dinner reservations for $guests
+Lunch Reservations for $guests
+breakfast reservations for $guests
+brunch reservations for $guests
+Dinner reservations in $zone
+Lunch Reservations in $zone
+breakfast reservations in $zone
+brunch reservations in $zone
+food
+order food
+order $cuisine from $zone
+restaurants
+I am famished
+I am hungry
+hungry

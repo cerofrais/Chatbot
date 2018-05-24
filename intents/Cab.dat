@@ -1,0 +1,34 @@
+I want to book a cab
+book me a cab
+find me a cab
+hail me a cab
+book cab
+cab book
+order a cab
+order me a cab
+order $cabcompany
+I want to book a $cabcompany
+book me a $cabcompany
+find me a $cabcompany
+hail me a $cabcompany
+book $cabcompany
+$cabcompany book
+order a $cabcompany
+order me a $cabcompany
+I want to book a taxi
+book me a taxi
+find me a taxi
+hail me a taxi
+book taxi
+taxi book
+order a taxi
+order me a taxi
+I need a taxi
+I need a cab
+I need a $cabcompany
+cab
+taxi
+$cabcompany
+book a cab for $numofseats $When
+a $cabcompany for $numofseats for $When
+book a cab for $numofseats
